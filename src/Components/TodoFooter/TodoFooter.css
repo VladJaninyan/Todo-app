@@ -1,0 +1,13 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 120px;
+}
+.clear {
+    width: 120px;
+    background-color: red;
+    border: none;
+    color: white;
+    cursor: pointer;
+}

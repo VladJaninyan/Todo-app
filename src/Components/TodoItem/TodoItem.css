@@ -1,0 +1,9 @@
+.todoitems  {
+    height: 35px;
+}
+.del {
+    background-color: red;
+    border: none;
+    color: white;
+    cursor: pointer;
+}

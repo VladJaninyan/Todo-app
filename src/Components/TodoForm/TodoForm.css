@@ -1,0 +1,19 @@
+form {
+    margin-top: 30px;
+}
+.todoInput {
+    width: 280px;
+    height: 30px;
+    border: none;
+    margin-bottom: 20px;
+}
+.todoInput:hover {
+    border: 2px solid #427FF7;
+}
+.todoAdd {
+    width: 60px;
+    border: none;
+    color: #3B4167;
+    height: 32px;
+    cursor: pointer;
+}
